@@ -1,4 +1,21 @@
+<<<<<<< HEAD
+#demoparagraph {
+-webkit-column-count: 3;
+-moz-column-count: 3;
+column-count: 3;
+-webkit-column-gap: 10px;
+-moz-column-gap: 10px;
+column-gap: 10px;
+-webkit-column-rule: 1px solid rgba(28,110,164,0.5);
+-moz-column-rule: 1px solid rgba(28,110,164,0.5);
+column-rule: 1px solid rgba(28,110,164,0.5);
+=======
 body{
 	color: black;
+<<<<<<< HEAD
 	background-color:grau;
+=======
+	background-color:blue;
+>>>>>>> e5184a489199a050353bedde434cfece5ae3371d
+>>>>>>> 31def301bb4992a390cfb8c16b5bf69ab6c3b7ab
 }
