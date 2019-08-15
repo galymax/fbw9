@@ -1,7 +1,7 @@
 FBW9 City Guide
 ===============
 
-Gudes zu folgenden Städten
+## Guides zu folgenden Städten
 - Düsseldorf
 - Hamburg
 - Amsterdam
@@ -21,7 +21,7 @@ Gudes zu folgenden Städten
 - Florenz
 - Brüssel
 
-Eine Städte-Seite enthält
+## Eine Städte-Seite enthält
 - Einwohnerzahl
 - Bürgermeister
 - Spezialitäten
@@ -30,5 +30,11 @@ Eine Städte-Seite enthält
 - Mit Fotos (ohne copyright)
 - Geschichte
 - Footer: Name des Autors (wer hat die seite erstellt)
+- CSS
 
-Eine Haupt-Seite auf der alle Städte verlinkt sind
+## Eine Haupt-Seite auf der alle Städte verlinkt sind
+- Mit Header
+- Bild
+- Einleitung
+- Städte-Liste
+- Links zu den Städte-Seiten
