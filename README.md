@@ -30,3 +30,5 @@ Eine Städte-Seite enthält
 - Mit Fotos (ohne copyright)
 - Geschichte
 - Footer: Name des Autors (wer hat die seite erstellt)
+
+Eine Haupt-Seite auf der alle Städte verlinkt sind
