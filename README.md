@@ -15,4 +15,4 @@ Es gibt **wichtiges** zu beachten
 ```html
 <h1>Das ist HTML</h1>
 ```
-[link]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
+[link]:(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
