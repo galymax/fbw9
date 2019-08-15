@@ -15,13 +15,10 @@ Es gibt **wichtiges** zu beachten
 ```html
 <h1>Das ist HTML</h1>
 ```
-<<<<<<< HEAD
-[link]:(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
-=======
-[link]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
+
+[link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ``` hier könnte ihre werbung stehen. ```
->>>>>>> 5899f863d19140b68e90371685e35d85841f8e05
 
 
 <iframe width="805" height="453" src="https://www.youtube.com/embed/HyHNuVaZJ-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
