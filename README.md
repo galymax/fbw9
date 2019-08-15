@@ -1,24 +1,32 @@
-FBW9 Projekt
-============
+FBW9 City Guide
+===============
 
-Gemeinsames Projekt der DCI Klasse FBW9 Düsseldorf
+Gudes zu folgenden Städten
+- Düsseldorf
+- Hamburg
+- Amsterdam
+- Tokyo
+- New York
+- Leipzig
+- Jerusalem
+- Remscheid
+- Zadar
+- Istanbul
+- Jerevan
+- Moskau
+- Zagreb
+- Köln
+- Berlin
+- Damaskus
+- Florenz
+- Brüssel
 
-1. Erster Punkt
-2. Zweiter Punkt
-
-Es gibt **wichtiges** zu beachten
-
-[Webseite anzeigen](https://galymax.github.io/fbw9/)
-
-![Logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "My Logo")
-
-```html
-  DCI HTML
-```
-
-[link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-``` hier könnte ihre werbung stehen. ```
-
-
-<iframe width="805" height="453" src="https://www.youtube.com/embed/HyHNuVaZJ-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Eine Städte-Seite enthält
+- Einwohnerzahl
+- Bürgermeister
+- Spezialitäten
+- Sehenswürdigkeiten
+- Flüsse
+- Mit Fotos (ohne copyright)
+- Geschichte
+- Footer: Name des Autors (wer hat die seite erstellt)
