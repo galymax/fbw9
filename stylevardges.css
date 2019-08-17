@@ -1,1 +1,157 @@
-body{background-color: white;}
+body{
+	box-sizing: border-box;
+	background-image: url("nkar/nkar1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+.header{
+	display: grid;
+	justify-content: flex-end;
+	grid-template-columns: 27%;
+	grid-column-gap: 10px;
+}
+.header{
+	width: 100%:
+	height: auto;
+	margin: 0px;
+	
+}
+
+.menu ul{
+	margin: 0;
+	padding: 0;
+}
+
+.menu ul li{
+	padding: 10px;
+	display: inline-block;
+}
+
+.menu ul li a{
+	color: rgb(60, 60, 60);
+	font-family: 'Lato', sans-serif;
+	text-decoration: none;
+    font-size: 14px;
+    line-height: 15px;
+    padding: 15px;
+
+}
+.homepage{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-auto-rows: minmax(100px, auto);
+	justify-content: space-between;
+	margin-top: 97px;
+	height: auto;
+}
+
+.dzax{
+	display: grid;
+	grid-template-rows:   2fr 1fr;
+	grid-auto-rows: minmax(100px, auto);
+	margin-right: 20px;
+	position: 
+    grid-gap: 1em;
+}
+
+.anun{
+	align-items: center;
+	margin: 50px 0px 0px 50px;
+	background-color: rgba(15, 13, 13, 0.3);
+}
+.anun h1{
+	font-size: 40px;
+	color: #FFF;
+	font-family: 'Open Sans', sans-serif;
+	text-align: left;
+}
+.anun p{
+	text-align: left;
+	font-family: 'Open Sans', sans-serif;
+	color: #FFF;
+}
+.button{
+	background-color: #fa801b;
+  color: white;
+  padding: 12px 26px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 44px;
+  cursor: pointer;
+  border-radius: 31px;
+}
+
+
+.uxecuyc{
+	display: grid;
+	grid-template-columns:   1fr 1fr 1fr;
+	grid-gap: 1em;
+	justify-content: center;
+}
+
+.Paseo{
+	align-items: center;
+	margin-top: 10px;
+	width: 225px;
+    height: 203px;
+	padding: 0px;
+}
+.Paseo img{
+	border-radius: 10px;
+	margin: 0px;
+	width: 225px;
+	height: 166px;
+}
+
+.Paseo h1{
+	font-size: 18px;
+	color: #333333;
+	font-family: 'Open Sans', sans-serif;
+	margin: 0px;
+}
+.Forum{
+	align-items: center;
+	margin-top: 10px;
+	width: 225px;
+    height: 203px;
+	padding: 0px;
+}
+.Forum img{
+	border-radius: 10px;
+	margin: 0px;
+	width: 225px;
+	height: 166px;
+}
+.Forum h1{   
+    font-size: 18px;
+	color: #333333;
+	font-family: 'Open Sans', sans-serif;
+	margin: 0px;
+
+}	
+.dugiotok{
+	align-items: center;
+	margin-top: 10px;
+	width: 225px;
+    height: 203px;
+	padding: 0px;
+}
+.dugiotok img{
+	border-radius: 10px;
+	margin: 0px;
+	width: 225px;
+	height: 166px;
+}
+
+.dugiotok  h1{   
+    font-size: 18px;
+	color: #333333;
+	font-family: 'Open Sans', sans-serif;
+	margin: 0px;
+
+}
