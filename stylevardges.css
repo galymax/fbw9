@@ -63,6 +63,7 @@ body{
 	background-color: rgba(15, 13, 13, 0.3);
 }
 .anun h1{
+	margin: 3px;
 	font-size: 50px;
 	color: #FFF;
 	font-family: 'Open Sans', sans-serif;
