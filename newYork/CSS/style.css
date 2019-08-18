@@ -1,0 +1,158 @@
+
+.header{
+    background-image: url("../images/newyork26.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 490px;
+    
+
+}
+footer{
+    height: 200px;
+    background-color: black;
+}
+.title{
+    color: rgb(29, 28, 28);
+    text-align: center;
+    font-size: 150px;
+    
+    font-family:Courier;
+    text-shadow: 5px 5px 8px rgb(95, 95, 95);
+}
+.title2{
+    color: white;
+    text-align: center;
+    font-family:Courier;
+    margin-bottom: 200px;
+    
+
+}
+h3{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    font-family:Courier;
+
+}
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.buttons{
+    display: flex;
+  justify-content: center;
+
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    
+  }
+
+
+  .button1 {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+  }
+  
+  .button1:hover {
+    background-color: #555555;
+    color: white;
+  }
+  
+  .button2 {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+  }
+  
+  .button2:hover {
+    background-color: #555555;
+    color: white;
+  }
+  
+  .button3 {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+  }
+  
+  .button3:hover {
+    background-color: #555555;
+    color: white;
+  }
+  
+  .button4 {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+  }
+  
+  .button4:hover {
+    background-color: #555555;
+    color: white;
+  }
+  
+  .button5 {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+  }
+  
+  .button5:hover {
+    background-color: #555555;
+    color: white;
+  }
+
+
+
+
+.icons{
+    display: flex;
+    justify-content: center;
+
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+
+  a{
+    text-decoration: none;
+    color: black;
+  }
+
+
