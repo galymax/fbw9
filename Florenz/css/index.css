@@ -8,10 +8,10 @@ body {
     background-image: url(../Bilder/florenz.header.jpg);
     background-repeat: no-repeat;
     height: 400px;
-    width: 900px;
-    margin-top: 0%;
+    width: 100%;
     position: relative;
     background-size: cover;   
+    border-radius: 10px;
   
 }
 
@@ -45,9 +45,11 @@ h2 {
     justify-content: center;
     margin-left: 150px;
     margin-right: 150px;
-
 }
 
+img {
+    border-radius: 10px;
+}
 .Palazzo-Vecchio {
     border-radius: 10px;
     display: flex;
