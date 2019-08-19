@@ -10,8 +10,8 @@ body {
     height: 400px;
     width: 900px;
     margin-top: 0%;
-    margin-left: 200px;
-    position: relative;   
+    position: relative;
+    background-size: cover;   
   
 }
 
