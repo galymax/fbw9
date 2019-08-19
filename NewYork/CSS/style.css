@@ -1,14 +1,15 @@
 
 .header{
+  background-color: black;
     background-image: url("../images/newyork26.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
-    height: 490px;
+    height: 800px;
     
 
 }
 footer{
-    height: 200px;
+    height: 500px;
     background-color: black;
 }
 .title{
