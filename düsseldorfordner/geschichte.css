@@ -208,7 +208,7 @@ body {
 
 .container .content .mid-content {
   margin-top: 20px;
-  width: 50%;
+  width: 80%;
   background-color:rgba(14, 10, 10, 0.466);
   display: -webkit-box;
   display: -ms-flexbox;
@@ -223,6 +223,7 @@ body {
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   padding: 20px 40px;
+  ++++++++++++++++++++++++++++++++++++++++++++++++++
 }
 
 .container .content .mid-content .card {
