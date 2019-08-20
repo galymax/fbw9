@@ -1,0 +1,126 @@
+body {
+    background-color: cornsilk;
+    font-family: 'Fjalla One', sans-serif;
+
+}
+
+.florenz-header {
+    background-image: url(../Bilder/florenz.header.jpg);
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 100%;
+    position: relative;
+    background-size: cover;   
+    border-radius: 10px;
+  
+}
+
+p { 
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    align-items: center;
+    line-height: 30px;
+    word-wrap: break-word;
+    font-size: 20px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+h2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+}
+
+.Ponte-Vecchio {
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+img {
+    border-radius: 10px;
+}
+.Palazzo-Vecchio {
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.Palazzo-Pitti {
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.Cattedrale {
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.Gallerie {
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.Piazzale {
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.Galleria-dell {
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.Fiesole {
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.Piazza {
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.Museo-Galileo {
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+footer {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}

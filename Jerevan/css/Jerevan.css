@@ -1,0 +1,84 @@
+
+body{
+    background-color: rgb(230, 224, 231);
+   
+}
+.text{
+    text-align: justify;
+    padding: 20px;
+    margin: 20px;
+
+}
+p{
+    font-size: 18px;
+}
+li{
+    font-size: 20px;
+    color:rgb(141, 5, 5);
+}
+h2{
+    color:rgb(4, 4, 136);
+
+}
+
+.hauptMenu a:hover{
+    color:rgb(196, 0, 0);
+}
+.hauptMenu a{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.hauptMenu{
+display: flex;
+justify-content: center;
+}
+.mainbody{
+    display: flex;
+    
+}
+.projekt{
+    
+    width:900px;
+    margin-right: 20px;
+
+}
+.fotos{
+    display: flex;
+    flex-direction: column;
+    width: 280px;
+    
+    
+}
+
+div.gallery {
+    margin: 10px;
+    border: 1px solid #ccc;
+    width: 300px; 
+    display:block;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.disc {
+    text-align: center;
+    color:rgb(95, 2, 18);
+  }
+  .footer{
+      border:1px solid black ;
+      width: auto;
+      height: 45px;
+      text-align: center;
+     padding-top:22px;
+     background-color: rgb(18, 47, 66);
+     color: rgb(255, 255, 255);
+      
+  }
+  
