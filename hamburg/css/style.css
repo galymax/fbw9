@@ -1,0 +1,138 @@
+/****** TYPOGRAPHY ******/
+
+p {
+    font-family: 'Special Elite', cursive;
+    color:whitesmoke;
+ }
+ 
+ a {
+    background: none;
+    font-family: 'Special Elite', cursive;
+ }
+ 
+  h1, p {
+     color: rgb(255, 255, 255);
+     font-family: 'Special Elite', cursive;
+     text-align: center;
+ }
+ 
+ h2 {color: rgb(255, 255, 255);
+    font-family: 'Special Elite', cursive;
+    text-align: center;
+ }
+ 
+ /* NAVIGATION */
+ 
+ nav a {
+    color: rgb(255, 255, 255);
+ }
+ 
+ /********* LAYOUT **********/
+ 
+ /* NAVIGATION */
+ 
+ nav {
+    background: rgba(201, 194, 194, 0);
+    text-align: center;
+    border: 5px solid rgba(0, 0, 0, 0);
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width: 300px;
+    margin: 5%;
+    margin-left: 37%;
+    padding: 0%
+    padding-right: 2%;
+    font-size: 100%;
+ }
+ 
+ nav a {
+    margin-right: 10px;
+    margin-left: 10px;
+ }
+ 
+ nav li {
+ list-style: none;
+ }
+ 
+ .main h1 {
+    font-size: 100%;
+ }
+ 
+ .kapitel {
+    display: flex;
+    flex-direction: column;
+ }
+ 
+ #steuerunglinks ul {
+    padding-right: 0%;
+    margin: 20%;
+ }
+ 
+
+ 
+
+ /* discord plugin CSS END */
+ 
+       header[role="banner"] {
+          position: relative;
+          width: 100%;
+          opacity: unset;
+        }
+        #wrapper-video {
+          display: flex;
+          flex-direction: column;
+          position: fixed;
+          top: -50%;
+          left: -50%;
+          width: 200%;
+          height: 200%;
+          z-index: -100;
+        }
+        #wrapper-video video {
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          margin: auto;
+          min-width: 55%;
+          min-height: 50%;
+        }
+ 
+       /* Galery*/
+ 
+       .gallerybox {
+       display: flex;
+       flex-direction: row;
+       width: 75%;
+       height: 75%;
+       margin: auto;
+       }
+ 
+       .gallery {
+          color: rgb(255, 255, 255);
+          font-family: 'Special Elite', cursive;
+          text-align: center;
+         display: table-cell;
+         flex-wrap: wrap;
+ 
+       }
+ 
+       .galleryboxyou {
+       display: flex;
+       flex-direction: row;
+       text-align: center;
+       justify-content: center;
+       width: 75%;
+       height: 28,5%;
+       margin: auto;
+       }
+ 
+        /* Footer Start*/
+ 
+        #Impressumoverlord {
+          position: inherit;
+          flex-direction: column;
+          width: 100%;
+      }

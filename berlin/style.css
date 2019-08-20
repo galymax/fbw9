@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 1000 px;
+    background-color: gray;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(43, 28, 129, 0.959);
+    justify-items: center;
+}
+h1 {
+    font-size: 28;
+}
+h2 {
+    font-size: 26;
+}
+p {
+    font-size: 24;
+}
+var {
+    width: 500 px;
+    height: 300 px;
+}
